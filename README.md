@@ -10,7 +10,9 @@ ghc recross.hs && ./recross
 ```
 
 Feb 2014
+
 Thomas Parslow
+
 tom@almostobsolete.net
 
-[The crossword](http://almostobsolete.net/regex-crossword/regular-expression-crossword.jpg)
+![The crossword](http://almostobsolete.net/regex-crossword/regular-expression-crossword.jpg)
